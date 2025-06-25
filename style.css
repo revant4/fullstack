@@ -1,0 +1,14 @@
+h1{
+    color: aqua;
+    background-color: aquamarine;
+    font-size: 30px;
+    font-weight: bold;
+}
+p{
+    color: azure;
+    background-color: blueviolet;
+}
+.b{
+    color: aquamarine;
+    border-radius: 5px;
+}
